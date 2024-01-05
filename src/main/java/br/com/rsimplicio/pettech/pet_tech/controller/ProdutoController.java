@@ -1,7 +1,6 @@
 package br.com.rsimplicio.pettech.pet_tech.controller;
 
 import br.com.rsimplicio.pettech.pet_tech.dto.ProdutoDTO;
-import br.com.rsimplicio.pettech.pet_tech.entities.Produto;
 import br.com.rsimplicio.pettech.pet_tech.service.ProdutoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatusCode;
